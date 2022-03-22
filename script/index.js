@@ -1,6 +1,6 @@
 const showdata = document.getElementById("showdata");
 
-let apikey = `05acdfed366347794422468e39b7f11f`;
+let apikey = "enter your key ";
 
 const search = document.getElementById("search");
 search.addEventListener("click", (event) => {
